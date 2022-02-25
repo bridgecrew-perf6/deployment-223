@@ -8,4 +8,3 @@ uvicorn
 gunicorn==19.9.0
 uvloop
 httptools
-uvicorb==0.9.0
