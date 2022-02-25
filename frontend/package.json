@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "dialogflow": "^1.2.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^5.0.0",
+    "uuid": "^8.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
