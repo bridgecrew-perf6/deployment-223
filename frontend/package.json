@@ -1,5 +1,6 @@
 {
   "name": "ui",
+  "proxy":"https://ml-drug-prediction-model.herokuapp.com/"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
