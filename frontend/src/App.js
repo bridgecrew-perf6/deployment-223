@@ -51,8 +51,9 @@ class App extends Component {
       .then(response => {
         this.setState({
           result: response.result,
-          isLoading: false
+          isLoading: true
         });
+      fetch('https://drug-ml-model.herokuapp.com/'
       });
   }
 
