@@ -38,7 +38,7 @@ class App extends Component {
   handlePredictClick = (event) => {
     const formData = this.state.formData;
     this.setState({ isLoading: true });
-    fetch('https://ml-drug-prediction-model.herokuapp.com/', 
+    fetch('https://drug-ml-model.herokuapp.com/', 
       {
         headers: {
           'Accept': 'application/json',
